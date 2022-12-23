@@ -1,0 +1,16 @@
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\net5.0\UdemyConsoleDocker.exe
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\net5.0\UdemyConsoleDocker.deps.json
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\net5.0\UdemyConsoleDocker.runtimeconfig.json
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\net5.0\UdemyConsoleDocker.runtimeconfig.dev.json
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\net5.0\UdemyConsoleDocker.dll
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\net5.0\ref\UdemyConsoleDocker.dll
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\net5.0\UdemyConsoleDocker.pdb
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\net5.0\UdemyConsoleDocker.csprojAssemblyReference.cache
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\net5.0\UdemyConsoleDocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\net5.0\UdemyConsoleDocker.AssemblyInfoInputs.cache
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\net5.0\UdemyConsoleDocker.AssemblyInfo.cs
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\net5.0\UdemyConsoleDocker.csproj.CoreCompileInputs.cache
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\net5.0\UdemyConsoleDocker.dll
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\net5.0\ref\UdemyConsoleDocker.dll
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\net5.0\UdemyConsoleDocker.pdb
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\net5.0\UdemyConsoleDocker.genruntimeconfig.cache

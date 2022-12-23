@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KÜBRA\\source\\repos\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj": {}
+    "C:\\Users\\KÜBRA\\Source\\Repos\\Docker\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KÜBRA\\source\\repos\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj": {
+    "C:\\Users\\KÜBRA\\Source\\Repos\\Docker\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KÜBRA\\source\\repos\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj",
+        "projectUniqueName": "C:\\Users\\KÜBRA\\Source\\Repos\\Docker\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj",
         "projectName": "UdemyConsoleDocker",
-        "projectPath": "C:\\Users\\KÜBRA\\source\\repos\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj",
+        "projectPath": "C:\\Users\\KÜBRA\\Source\\Repos\\Docker\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj",
         "packagesPath": "C:\\Users\\KÜBRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KÜBRA\\source\\repos\\UdemyDocker\\UdemyConsoleDocker\\obj\\",
+        "outputPath": "C:\\Users\\KÜBRA\\Source\\Repos\\Docker\\UdemyDocker\\UdemyConsoleDocker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

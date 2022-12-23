@@ -1,0 +1,37 @@
+﻿obj klasörü
+   oluşmasının sebebi şudur biz uygulamamızı 
+   build ettiğimiz zaman bu klasör içerisinde build katmanlar oluşur
+   bu katmanların oluşmasının sebebi siz belli bir seviye kodlama yapıldığı zaman
+   tekrar build ettiğimiz zaman eğer değişmeyen kodlarınız varsa
+   burdan kullanılır yani sizin build sürecinizi hzıalndırmak için
+   oluşan bir geçici bir dosyadır
+
+   Bin klasörü ise 
+     sizin uygulamanızınçalışabilen halinin bulunduğu yerdir.İçine girildiğ zaman bizim orda exe dosyamız var
+     debug çalışabilir klösrümüz var.
+
+     dockerFile içerisinde talimatlarımızı yazarken uygulamamızın publish
+     edilmiş datasına ihtiyacımız var.Bu yüzden napıyoruz genellikle bir uygulamamızı productın ortama atmak için 
+     sağ tıklıyoruz ve publish butonu tıklıyoruz arkasından bir dosya ya atıcağımızı belli edeceğim bu yüzden folder a tıklıyoruz
+     Configuration da bir debug modda build etmek var birde release ortamda build etmek var
+     ikisi arasındaki fark nedir?debug modda uygulamamızı build ettiğimiz zaman
+
+      uygulamamız daha çok hata ayıklamaya yönelik olarak ve içerisinde aynı zamanda uygulamanın çalıştığı zamanda çıktı 
+      lar verecek yapı da uygulamanızın exe dosyası oluşur.Ama release modda build ettiğiniz zaman
+      uygulamanız product ın ortam için daha optimize edilmiş ve debug kodlardan arınmış 
+      arındırılmış bir şekilde build işlemi gerçekleşmiş  oluyor.Biz genel de
+      canlı ortama atarken napıyoruz Configuration da release modda build işlemi gerçekleştiriyoruz.
+      publish ediyoruz datamızı ve o  şekilde alıyoruz.Şimdi publish dediğim zaman open file explorer dediğimiz de
+      bin in içine girdiğim zaman debug ve release klasörlerini göreceksin ikisinde de  çalıştırılabilir sml kodum var
+      ama debug modda daha çok hata ayıklama yönelik exe oluştururken Release ise daha çok product
+      ortama yönelik olarak optimize edilmiş özellikle projenin boyutunun daha azaltırdığı bir dosyadır
+      release içerisine girdiğiniz zaman publish klaörünün içinde publish edilmiş datamı görüyorsunuz
+      toplam da 5 tane var 1 tanesi exe dosyası var exe dosyasını çalıştırdığımızda yine aynı sonucu alıyorum
+      Benim dockerFile dosyasının içerisinde bir image oluşturabilmem için ne yapmam lazım
+      uygulamamım publish edilmiş datasının vermem gerekiyor.Bu yüzden arakadaşlar.İlk başta bunu anlattım ki publish edildiğin de neler oluyor öğrenmek için 
+
+      Artık ben projemin publish edildiği zaman ki datayı biliyorum .Artık dockerfile dosyasını adım adım yazabilirim
+      
+
+      
+

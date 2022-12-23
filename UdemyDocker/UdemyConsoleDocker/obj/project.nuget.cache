@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hk4fiBGTtQPwdTsl0xDRu87X/k7iR10UYIJensaFSOR9Pyoy6+Z3RtqXZOGLtwAHh8gkCk47L24Eiwfl+p2N5Q==",
+  "dgSpecHash": "msv6cYbnkVZb7I8nVgCE4vxW4zybONjfB7TJ2cmb1temEPw4hcSVvBqvvyfGf1zX+y1sEVxiTEyeym5A6D61PQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KÜBRA\\source\\repos\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj",
+  "projectFilePath": "C:\\Users\\KÜBRA\\Source\\Repos\\Docker\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
