@@ -1,0 +1,13 @@
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\netcoreapp3.1\UdemyConsoleDocker.exe
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\netcoreapp3.1\UdemyConsoleDocker.deps.json
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\netcoreapp3.1\UdemyConsoleDocker.runtimeconfig.json
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\netcoreapp3.1\UdemyConsoleDocker.runtimeconfig.dev.json
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\netcoreapp3.1\UdemyConsoleDocker.dll
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Debug\netcoreapp3.1\UdemyConsoleDocker.pdb
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\netcoreapp3.1\UdemyConsoleDocker.csprojAssemblyReference.cache
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\netcoreapp3.1\UdemyConsoleDocker.AssemblyInfoInputs.cache
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\netcoreapp3.1\UdemyConsoleDocker.AssemblyInfo.cs
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\netcoreapp3.1\UdemyConsoleDocker.csproj.CoreCompileInputs.cache
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\netcoreapp3.1\UdemyConsoleDocker.dll
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\netcoreapp3.1\UdemyConsoleDocker.pdb
+C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Debug\netcoreapp3.1\UdemyConsoleDocker.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\KÜBRA\source\repos\Docker\UdemyDocker\UdemyConsoleDocker\UdemyConsoleDocker.exe
+C:\Users\KÜBRA\source\repos\Docker\UdemyDocker\UdemyConsoleDocker\UdemyConsoleDocker.dll
+C:\Users\KÜBRA\source\repos\Docker\UdemyDocker\UdemyConsoleDocker\UdemyConsoleDocker.deps.json
+C:\Users\KÜBRA\source\repos\Docker\UdemyDocker\UdemyConsoleDocker\UdemyConsoleDocker.runtimeconfig.json
+C:\Users\KÜBRA\source\repos\Docker\UdemyDocker\UdemyConsoleDocker\UdemyConsoleDocker.pdb

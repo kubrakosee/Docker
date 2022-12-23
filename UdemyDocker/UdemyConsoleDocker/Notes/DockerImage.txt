@@ -1,0 +1,9 @@
+﻿Docker Image dosyası oluşturmak
+	dockerfile içerisinde belirtirilen  talimatlarına göre
+	bir image oluşturabilmemiz için ilk olarak işletim sistemini
+	üzerindeki docker ın çalıştığına emin olun 2.ci sign out olduğunuza emin olun
+	artık benim docker cLI aracılığıylaa ben dockera bir image yazabilirim.
+	projeye gel sağ tıkla open command line a gelip powershell komıt satırını açıyorum
+
+
+		
