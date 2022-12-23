@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Docker/v16/.suo
+/UdemyDocker/UdemyConsoleDocker/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+/UdemyDocker/UdemyConsoleDocker/obj/Release/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+/UdemyDocker/UdemyConsoleDocker/obj/Release/net5.0
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
