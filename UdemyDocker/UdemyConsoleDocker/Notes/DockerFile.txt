@@ -1,0 +1,12 @@
+﻿DockerFile Dosyası Oluşturmak
+   tekrardan projemize publish diyoruz 
+   sonra ofen file dosya içeriğimize bakalım 
+   properties dosyası oluşmuş oluşmasının sebebi publish ile 
+   igili ayarları tutuyor bir önceki derste yoktu
+   bin ve obj vardı
+   bin,release,netcoreapp3.1,publish klasörün içindekini
+   baz alıcaz dockerfile dosyasını hazırlarken projemem dockerfile ekleyebilmem
+   için projeye sağ tıkla add de docker support var biz linuxta çalışmasını istiyorum
+   Dockerfile dosyası oluşturdu içerisinde bazı hazır kodlar yazdı
+
+

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "msv6cYbnkVZb7I8nVgCE4vxW4zybONjfB7TJ2cmb1temEPw4hcSVvBqvvyfGf1zX+y1sEVxiTEyeym5A6D61PQ==",
+  "dgSpecHash": "JBpDbA/VeNL+rj2e2HqgBqFWDZeRZpKd9bUaE4OOjymw3krVXpsDnFS8MWgVreAr5x+c4+Zp1YvsbHbeEKouzQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\KÜBRA\\Source\\Repos\\Docker\\UdemyDocker\\UdemyConsoleDocker\\UdemyConsoleDocker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\KÜBRA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\KÜBRA\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\KÜBRA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
