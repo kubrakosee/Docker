@@ -3,7 +3,15 @@
 	bir image oluşturabilmemiz için ilk olarak işletim sistemini
 	üzerindeki docker ın çalıştığına emin olun 2.ci sign out olduğunuza emin olun
 	artık benim docker cLI aracılığıylaa ben dockera bir image yazabilirim.
-	projeye gel sağ tıkla open command line a gelip powershell komıt satırını açıyorum
+	projeye gel sağ tıkla open command line a gelip powershell komut satırını açıyorum
+	docker build -t udemyconsoledocker .
+	diyoruz
+	image ın oluştuğunu görmek için de 
+	docker images 
+	diyoruz 
+	tag vermek için
+	docker build -t udemyconsoledocker:v1 .
+	diyebiliriz
 
 
 		

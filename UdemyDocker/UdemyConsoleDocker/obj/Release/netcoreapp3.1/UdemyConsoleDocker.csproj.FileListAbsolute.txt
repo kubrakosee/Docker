@@ -10,3 +10,4 @@ C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Release\n
 C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Release\netcoreapp3.1\UdemyConsoleDocker.dll
 C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Release\netcoreapp3.1\UdemyConsoleDocker.pdb
 C:\Users\KÜBRA\Source\Repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Release\netcoreapp3.1\UdemyConsoleDocker.genruntimeconfig.cache
+C:\Users\KÜBRA\source\repos\Docker\UdemyDocker\UdemyConsoleDocker\obj\Release\netcoreapp3.1\UdemyConsoleDocker.csprojAssemblyReference.cache

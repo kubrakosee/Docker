@@ -1,0 +1,5 @@
+C:\Users\KÜBRA\source\repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Release\netcoreapp3.1\UdemyConsoleDocker.exe
+C:\Users\KÜBRA\source\repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Release\netcoreapp3.1\UdemyConsoleDocker.dll
+C:\Users\KÜBRA\source\repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Release\netcoreapp3.1\UdemyConsoleDocker.deps.json
+C:\Users\KÜBRA\source\repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Release\netcoreapp3.1\UdemyConsoleDocker.runtimeconfig.json
+C:\Users\KÜBRA\source\repos\Docker\UdemyDocker\UdemyConsoleDocker\bin\Release\netcoreapp3.1\UdemyConsoleDocker.pdb
