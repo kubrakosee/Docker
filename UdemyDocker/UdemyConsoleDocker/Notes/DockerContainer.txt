@@ -15,4 +15,3 @@ gerekir.
 		docker stop udemyconsole_container bu şekilde durduruyoruz
 		test et durmuş mu diye docker ps diyip evet durmuş container gözükmğyor
 		image oluşturudğumuz için istediğimiz kadar container oluşturabiliriz
-

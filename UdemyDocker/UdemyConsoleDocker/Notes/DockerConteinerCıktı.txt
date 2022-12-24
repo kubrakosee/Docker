@@ -1,0 +1,10 @@
+﻿Docker container içerisindeki çıktıyı görmek
+	powershell de 
+	docker ps -a
+	sonra container çalıştırmak için 
+	docker start 39e ister ıd ister name i ni de yazabilirsin
+	şimdi de container üretmiş olduğu çıktıyı görelim
+	docker attach 39e e diyoruz console açılıp programın
+	çıktılarını veriyor.
+	docker stop 39e
+
