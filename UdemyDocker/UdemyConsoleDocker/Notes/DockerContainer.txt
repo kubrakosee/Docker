@@ -1,0 +1,18 @@
+﻿Docker container oluşturmak
+dockerfile da bir değişiklik yaptığımda imagelerını almam
+gerekir.
+		docker create --name udemyconsole_container udemyconsoleapp
+		diyoruz
+		bir tane ıd vericek 
+		peki containerlarımı nasıl görüceğim 
+		docker ps -a  mevcut containerları görebilirim
+		eğer docker ps dersem sadece çalışan containerlarımı görürüm
+		şimdi containerımızı çalıştıralım 
+		docker start udemyconsole_container
+		var olan container nasıl durdurulur ona bakıcağız
+		clear temizle
+		docker ps de çalışan container gör
+		docker stop udemyconsole_container bu şekilde durduruyoruz
+		test et durmuş mu diye docker ps diyip evet durmuş container gözükmğyor
+		image oluşturudğumuz için istediğimiz kadar container oluşturabiliriz
+
